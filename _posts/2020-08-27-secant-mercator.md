@@ -118,7 +118,7 @@ Lists of these projections can be found [here][map_projections] or [here][wiki_p
 I will explain two of the simplest here, which will help with understanding the Mercator map in the next section.
 
 All map projections can be represented as equations that transform spherical co-ordinates to flat map co-ordinates.[^3]
-The co-ordinates on the sphere are the angles $\varphi$ and $\lambda$. These correspond to lines of latitude (parallels) and longitude (meridans) respectively. 
+The co-ordinates on the sphere are the angles $\varphi$ and $\lambda$. These correspond to lines of latitude (parallels) and longitude (meridians) respectively. 
 The co-ordinates on the flat map are $x$ and $y$. A map projection is therefore a transformation from $\varphi$ and $\lambda$ to $x$ and $y$.
 
 One of the simplest and oldest known projections is the equirectangular projection:
@@ -189,7 +189,7 @@ The relative scale of Greenland to Africa is therefore accurately represented in
 
 ## The Mercator map
 
-In 1569mGerardus Mercator wanted to make a global world map that would be useful for navigation. 
+In 1569, Gerardus Mercator wanted to make a global world map that would be useful for navigation. 
 He lived in a time when sailing across vast ocean distances was the norm. (In 1492 Christopher Columbus had discovered America by sailing all the way from Spain.)
 The maps shown above are fine for artistic impressions and applications but not for navigation.
 The distortions prevent doing any accurate distance and bearing measurements on the map. 
